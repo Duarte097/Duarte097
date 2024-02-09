@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil, sou o Leonardo Ramalho Duarte.
 ## Estudo Ciência da Computação na UTFPR.
-## Trabalho na SWA na parte de Migração de dados com MySQL.
+
 
 
 <div>
