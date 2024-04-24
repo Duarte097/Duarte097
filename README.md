@@ -1,5 +1,6 @@
-## Bem vindo ao meu perfil, sou o Leonardo Ramalho Duarte.
-## Estudo Ciência da Computação na UTFPR.
+## Leonardo Ramalho Duarte.
+## Ciência da Computação - UTFPR 8/8.
+## Inglês - CCAA 1.5/5.
 
 
 
