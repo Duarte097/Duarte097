@@ -1,6 +1,6 @@
 ## Leonardo Ramalho Duarte.
 ## Ciência da Computação - UTFPR 8/8.
-## Inglês - CCAA 1.5/5.
+## Inglês - CCAA 5/10.
 
 
 
