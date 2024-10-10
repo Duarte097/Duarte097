@@ -1,6 +1,6 @@
 ## Leonardo Ramalho Duarte.
-## Ciência da Computação - UTFPR 
-## Inglês - CCAA 5/10.
+## Formado em Ciência da Computação - UTFPR 
+## Inglês - CCAA 6/10.
 
 
 
